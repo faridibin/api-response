@@ -1,0 +1,24 @@
+{
+  "name": "api-response",
+  "version": "1.0.0",
+  "description": "Node package to send restful API response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridibin/api-response.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "response"
+  ],
+  "author": "Farid Adam <faridibin@gmail.com> (Https://faridibin.tech.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faridibin/api-response/issues"
+  },
+  "homepage": "https://github.com/faridibin/api-response#readme"
+}
